@@ -34,13 +34,6 @@ Font Awesome – Icons for navigation and social media
 
 Google Fonts (Poppins) – Clean and modern typography
 
-📸 Screenshots
-1. Hero Section
-
-2. Portfolio Projects
-
-![Portfolio Projects](Screenshot%202025-07-28%20at%209.25.07 PM.png)
-
 📂 Project Structure
 📦 Portfolio-Landing-Page
  ┣ 📜 index.html        # Main HTML file
@@ -54,26 +47,18 @@ Google Fonts (Poppins) – Clean and modern typography
 ⚡ How to Run
 
 Clone or download the repository
-
-git clone https://github.com/your-username/portfolio-landing-page.git
-
-
+git clone https://github.com/Kunal26-coder/Portfolio_take2.git
 Open index.html in any modern browser.
-
 Explore the sections and interact with the features.
 
 📌 Learning Outcomes
 
 Improved frontend design skills with HTML, CSS, and JavaScript
-
 Implemented responsive layouts for mobile and desktop
-
 Gained hands-on experience with DOM manipulation & animations
-
 Learned how to structure a personal portfolio project professionally
 
 📧 Contact
-
 If you’d like to connect or collaborate, feel free to reach out:
 
 Name: Kunal Soyal
